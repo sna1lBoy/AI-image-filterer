@@ -1,6 +1,7 @@
 # How to install
 - Download and unzip the source code
 - Go to chrome://extensions/
+- Turn on developer mode
 - Select "Load unpacked"
 - Select the source code directory
 
